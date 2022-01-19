@@ -1,5 +1,5 @@
-# Template for Telegram Bot
-Template for creating Telegram Bots
+# Telegram Bot for Random messaging!
+Created from [Telegram Template Bot](https://github.com/shirinyamani/PyBot)
 # How to run?
 
 1. Export Python path via: `PYTHONPATH=${PWD}`
